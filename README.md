@@ -4,7 +4,7 @@ Sistema inteligente de recomendação de livros. Digite o nome de um livro e rec
 
 ## 🌐 Acesse o Site
 
-**[bookmatch.onrender.com](https://bookmatch.onrender.com)** (ou o link do seu deploy)
+https://bookmatch-o4ij.onrender.com/
 
 ---
 
